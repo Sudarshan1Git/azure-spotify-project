@@ -1,0 +1,9 @@
+{
+	"name": "adf-azurespotifyproject-sudarshan",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44eb2c81-9089-4c43-b3ed-143961f330e5",
+		"tenantId": "91850cd6-66d7-4cca-8db7-861384d4f67e"
+	}
+}
